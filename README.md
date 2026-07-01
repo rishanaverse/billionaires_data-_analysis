@@ -96,7 +96,7 @@ Example:
 
 👨‍💻 About Me
 
-Hi, I’m [Your Name] 👋
+Hi, I’m fathima rishana 👋
 
 I am a Data Analyst student passionate about transforming data into meaningful stories through analytics and visualization.
 
@@ -111,9 +111,8 @@ Currently learning:
 
 🤝 Connect With Me
 
-🔗 LinkedIn: [Your LinkedIn]
-🌐 Portfolio: [Your Website]
-📧 Email: [Your Email]
+🔗 LinkedIn: www.linkedin.com/in/fathima-rishana/
+📧 Email: fathimarishanak4@gmail.com
 
 ⸻
 
